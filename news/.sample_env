@@ -1,0 +1,9 @@
+SECRET_KEY=your_secret_key
+DEBUG=true_or_false
+EMAIL_BACKEND=backend_of_your_choice
+DEFAULT_FROM_EMAIL=same_one_of_heroku
+EMAIL_HOST=email_host_of_your_choice
+EMAIL_HOST_USER=same_one_of_heroku
+EMAIL_HOST_PASSWORD=your_password
+EMAIL_PORT=port_of_your_choice
+EMAIL_USE_TLS=true_or_false
